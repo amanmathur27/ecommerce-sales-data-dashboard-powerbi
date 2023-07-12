@@ -1,4 +1,5 @@
 # ecommerce-sales-data-dashboard-powerbi
+# Data Analytics Project
 Analyzed ecommerce sales data of an online shop. Created an interactive and attractive dashboard using Microsoft Power BI. 
 
 This is one of the snapshot of that interactive dashboard that i have created using Power BI tool.
